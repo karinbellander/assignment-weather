@@ -1,0 +1,58 @@
+html {
+  margin:0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+
+.container {
+  width: 80%;
+  margin: auto;
+  height: 100vh;
+
+}
+
+h1 {
+  margin: 0;
+  padding: 1%;
+  font-size: 1vw;
+  line-height: 3vw;
+  font-weight: normal;
+  text-transform: uppercase;
+
+}
+
+h2 {
+  font-size: 8vw;
+  letter-spacing: -2px;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  text-align: center;
+  font-size: 1.5vw;
+  margin: 0;
+  padding: 0;
+}
+
+.city {
+  background-color: #6DBCEF;
+  padding: 3%;
+}
+
+.temperature {
+  background-color: #FFF365;
+  padding: 3%;
+}
+
+.description {
+  background-color: #FF4E4E;
+  padding: 3%;
+}
